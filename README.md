@@ -1,8 +1,11 @@
 ### Hi there 👋
 
 
+I am Software developer who works  on the front end of all things web and mobile and in quest for opportunities to learn more and grow!
 
-I am Front-end web engineer, passionate about creating intuitive and engaging interfaces with emphasis on aesthetics, efficiency, and security.
+Working in teams in my thing, pair programming, collaborating with other developers on innovative solutions and teaching while i can. 🔥🚀
+
+Currently learning server side and cloud technologies 
 
 - 🌱 Staunch fan of severless architecture
 - 🌱 JAMSTACK LOVER
